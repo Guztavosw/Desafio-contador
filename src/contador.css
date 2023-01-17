@@ -1,0 +1,26 @@
+body{
+  background: #F5F5F5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+button{ 
+  background: #FF4F40;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  color: #FFF;
+}
+
+p{
+  color: #000;
+}
+
+.contador{
+  
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
